@@ -11,6 +11,7 @@ The significance of making informed choices in today’s rapid-paced business su
 **Installation:**
 
 Before delving into the project, make sure that Python 3.X is established in your gadget with the essential libraries like Pandas, NumPy, Scikit-examine, Matplotlib, and Seaborn.
+
 pip Install pandas numpy scikit-learn matplotlib seaborn
 
 **Experiments:**
