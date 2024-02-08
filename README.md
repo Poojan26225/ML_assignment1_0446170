@@ -1,5 +1,5 @@
 **Machine Learning Assignment 1**
-Student id:0446170
+Student id: 0446170.
 Title: **Predicting Urban Profitability of a Restaurant: A Machine Learning Approach**
 
 **advent:**
