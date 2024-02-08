@@ -11,14 +11,14 @@ Follow these easy steps to start the project.
 1. Clone this repository for your local system.
 2. Navigate to the task listing.
 Three. Open the C1_W2_Linear_Regression.Ipynb script using Jupyter Notebook or any well matched surroundings.
-#Data
+**#Data**
 The effectiveness of any device gaining knowledge of effort depends on the first-class of its dataset. In this exercise, we use the data set "ex1data1.Txt" which gives statistics approximately the populace and profitability of every town, as a foundation for our prediction version
 
-#Example
+**#Example**
 The core of our prediction version is the Linear Regression model. Trained on information, this version attempts to perceive the relationship among populace and profitability in every town. Through iterative getting to know, the model refines its parameters to better predict profitability primarily based on population variables.
-#impact
+**#impact**
 Get first-hand revel in with the power of predictive analytics via strolling scripts like urban infrastructure analysis, for instance. The graphs, together with demographic maps for every city, provide valuable insight into the records and sample.
-#Contribution
+**#Contribution**
 This challenge prospers on cooperation and takes donations from all interested events. Whether it’s development posts or new features, your input is precious. Don’t hesitate to start a conversation or send a pull request to move this assignment forward.
-#conclusion
+**#conclusion**
 In summary, the combination of device studying and real estate presents an attractive method for predictive analytics. By harnessing the energy of algorithms, we empower ourselves to make informed decisions, so we plan financially and professionally at the beginning of this adventure as we are looking for to harness the metropolis’s incarnate context of difference.
