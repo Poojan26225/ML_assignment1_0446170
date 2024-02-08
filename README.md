@@ -6,12 +6,12 @@ The significance of making informed choices in today’s rapid-paced business su
 # Installation
 Before delving into the project, make sure that Python 3.X is established in your gadget with the essential libraries like Pandas, NumPy, Scikit-examine, Matplotlib, and Seaborn
 pip Install pandas numpy scikit-learn matplotlib seaborn
-#Experiments:
+**#Experiments:**
 Follow these easy steps to start the project.
 1. Clone this repository for your local system.
 2. Navigate to the task listing.
 Three. Open the C1_W2_Linear_Regression.Ipynb script using Jupyter Notebook or any well matched surroundings.
-**#Data**
+#Data
 The effectiveness of any device gaining knowledge of effort depends on the first-class of its dataset. In this exercise, we use the data set "ex1data1.Txt" which gives statistics approximately the populace and profitability of every town, as a foundation for our prediction version
 
 **#Example**
